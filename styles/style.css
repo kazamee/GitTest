@@ -1,0 +1,15 @@
+
+html {
+  background-color: #7abfff;
+}
+body
+{
+    width: 600px;
+  margin: 0 auto;
+  background-color: white;
+  padding: 0 20px 20px 20px;
+}
+h1
+{
+    text-align: center;
+}
