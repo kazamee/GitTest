@@ -1,0 +1,18 @@
+ul {
+  display: inline-flex;
+  list-style: none;
+}
+li {
+  margin: 10px;
+}
+form {
+  display: inline-flex;
+  list-style: none;
+}
+/*
+div {
+  display: inline-flex;
+  list-style: none;
+}
+でナビゲーションバーと検索フォームを1行で横並びにしようとしたが、
+ナビは行にならず、フォームは上に来た。なので一旦分けてインラインにしておく*/
